@@ -1,0 +1,13 @@
+package com.fightresolver;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class FlatMateFightResolvApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
